@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "vanillanethermetals:blocks/nether_coal_ore"
+    }
+}
